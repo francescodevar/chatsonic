@@ -2,8 +2,8 @@
 
 artificial intelligence application "ChatSonic", the application has a free plan, which you have to generate your API-Key and paste it in the constants.dart file
 
-## Examples
+- Using API
+- Chat Statement
 
-<img src="https://uc8cdac5f16df8e04a7d8764de93.previews.dropboxusercontent.com/p/thumb/AB71TahOBdHZj21nv4FBgiqOVyVlI6be_U6d_PBwDre7vlN0dfaMZkWsbX4jNZezsS1eke2lQeJgO6T7QUI9R12FphtUYyLiqs5vU2sBTUV-wGcONjmTTma5oNPms5P5X3imjoSzVdPup9y9pOQX4Ar_q-O5Ejs94z-lW04RnkhwWTbxSJ_cGRK5PMdurBU9Jd2ySjIj5SwdUQ8eFIqZzzBcacmjgU_PQyLMsJppiFGFqAfe76hxbd2CsqDxaGzFZFuchif8BhzmHdLO_iov6NVNWZ9-7g3SADZK5PdPmarSEXSPrN0qPRzLt8rUpqmM0UNRQgrs_e68KrHPmRhRHThAzR0znBMmg3fnTNydFKcB0KizrCfLLAyXUmnIwVrcodlD2AYPqQW0tQF9A7q0Xjr77HU9iRDKG5HncpLLEI664g/p.jpeg" width="250">
 
-<img src="https://ucafcc7131d7aff58ca1b18c0eec.previews.dropboxusercontent.com/p/thumb/AB7BrF-0ILyCDJIpDMwqgagAhTnpM17UBlMjSnS13ge3CQr_jENrzQ6HZWhVA3lJiYmeks2TjipVOFK-C7Q9gunRFoHdb4NKbuIgDni1CLeLzIBG5qYR7yWMfNzFcJB752rJM7_TO0KEfRIP5oi-ew2r6tJCaSFeHggcjzCm9-QUn7Z-voYZ6Ps9vDkTI6C4ulMjmSz0FsR33HECS4Dxqgol3gf22OuOKOEyDhEWYFZAS49W3Oa8qAfzbZ_bsr9xkuXlP4qKY_NcYJO_QeIHYdnBCTPhvdBafrO2cXxle9iWQi1lpjmdTuTr92nwy5KEJifwHgCiQJQShCHkHzqSSxwR9dtAhkMf0pcdZPRKrfrz7CxOGkDTq5DRZEuCsgetsqKzXzG2gA0l4cJIfCvxmGtdngpRjwwNRmGluhnbnimY9Q/p.jpeg" width="250">
+<img src="https://github.com/francescodevar/chatsonic/assets/67846639/e81d3d87-5b9f-4768-8bfc-fccd3fed00e6" width="300" height="600">
