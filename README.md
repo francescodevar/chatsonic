@@ -1,6 +1,6 @@
 # chatsonic
 
-artificial intelligence application "ChatSonic", the application has a free plan, which you have to generate your API-Key and paste it in the constants.dart file
+artificial intelligence application "ChatSonic", the application has no more free plan, which you have to generate your API-Key and paste it in the constants.dart file
 
 - Using API
 - Chat Statement
